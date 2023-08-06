@@ -1,5 +1,5 @@
 // will be taken away once it is graded
-var apiKey = "pk.eyJ1Ijoia2VueW9uc20xMTI2IiwiYSI6ImNqeGhtaGZwczB3ZHI0MG83Z3VvY3VjdmIifQ.xAB0--erCUHLE7qweg0eIA";
+var apiKey = "enter api key here";
 
 var graymap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
   attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
